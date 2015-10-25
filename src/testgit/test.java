@@ -1,5 +1,7 @@
 package testgit;
 
 public class test {
- fgf
+ public static void main(String[] args) {
+	System.out.println();
+}
 }
